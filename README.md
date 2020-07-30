@@ -1,5 +1,5 @@
 # ZSConf
-用于读取类似conf/ini格式的Ｃ语言接口
+用于读取类似conf/ini格式配置文件的Ｃ语言接口
 
 #Example
 ```
