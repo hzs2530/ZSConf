@@ -1,7 +1,7 @@
 # ZSConf
 用于读取类似conf/ini格式配置文件的Ｃ语言接口
 
-#Example
+# Example
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-#test.conf
+# test.conf
 ```
 [GROUP1]
 conf_int = 125 #int
