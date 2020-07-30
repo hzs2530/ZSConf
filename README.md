@@ -52,3 +52,16 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
+
+#test.conf
+```
+[GROUP1]
+conf_int = 125 #int
+conf_string = hello#string
+conf_float = 1.235#float
+
+[GROUP2]
+conf_int = 666
+conf_string = hello world
+conf_float = 5.123
+```
